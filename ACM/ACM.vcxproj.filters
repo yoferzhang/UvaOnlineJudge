@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1594-DucciSequence.cpp">
+    <ClCompile Include="10935-ThrowingCardsAway.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
