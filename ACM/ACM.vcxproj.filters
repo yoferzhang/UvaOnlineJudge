@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="232text.cpp">
+    <ClCompile Include="1594-DucciSequence.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
