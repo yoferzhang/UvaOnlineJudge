@@ -127,7 +127,7 @@ void solve()
 	while (!q.empty()) {
 		Node u = q.front();
 		q.pop();
-		if (u.r == r2 && u.c == c2) { // ÷ÿµ„
+		if (u.r == r2 && u.c == c2) { // ÷’µ„
 			printAns(u);
 			return;
 		}
