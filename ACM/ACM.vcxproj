@@ -10,9 +10,6 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="12166-EquilibriumMobile.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{1DA09560-82BA-46B2-8CD0-BEDE3D8F23FF}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
